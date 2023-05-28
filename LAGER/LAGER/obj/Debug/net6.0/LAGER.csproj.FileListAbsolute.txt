@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\LAGER\LAGER\bin\Debug\net6.0\LAGER.exe
+C:\Users\1\source\repos\LAGER\LAGER\bin\Debug\net6.0\LAGER.deps.json
+C:\Users\1\source\repos\LAGER\LAGER\bin\Debug\net6.0\LAGER.runtimeconfig.json
+C:\Users\1\source\repos\LAGER\LAGER\bin\Debug\net6.0\LAGER.dll
+C:\Users\1\source\repos\LAGER\LAGER\bin\Debug\net6.0\LAGER.pdb
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.AssemblyInfo.cs
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.dll
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\refint\LAGER.dll
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.pdb
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\LAGER.genruntimeconfig.cache
+C:\Users\1\source\repos\LAGER\LAGER\obj\Debug\net6.0\ref\LAGER.dll
