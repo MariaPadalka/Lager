@@ -18,7 +18,8 @@ in the chosen directory.
 
 #### Step 4: Configure file paths in LAGER.ipynb
  - Change paths ("C:\\\\Users\\\\1\\\\source\\\\repos\\\\LAGER\\\\LAGER\\\\bin\\\\Debug\\\\net6.0\\\\widgets_data.txt" , "C:\\\\Users\\\\1\\\\source\\\\repos\\\\LAGER\\\\LAGER\\\\bin\\\\Debug\\\\net6.0\\\\calculatedData.txt" )
-to new existing ones (you can find them in bin/Debug/net6.0 in your project(in Visual Studio))
+
+to new existing ones (you can find them in **bin/Debug/net6.0** in your project(in Visual Studio))
  - Make sure you can see Solution Explorer and find those files using (Open in FileExplorer). There you may copy required file paths
 
 
@@ -26,7 +27,7 @@ to new existing ones (you can find them in bin/Debug/net6.0 in your project(in V
 1. Navigate to **LAGER.ipynb** in JupiterLab and run this file (using Run All)
 2. Enter or use default data for lager transformation
 3. Click on "Pass parameters"
-4. Navigate to ***/Program.cs*** and run  
+4. Navigate to ***/Program.cs*** in Visual Studio and run  
 5. Navigate to **LAGER.ipynb** in JupiterLab and click "Read the result"
 6. Click any blue button to display calculated data.
 
