@@ -24,11 +24,11 @@ to new existing ones (you can find them in **bin/Debug/net6.0** in your project(
 
 
 #### Step 5: Run the project
-1. Navigate to **LAGER.ipynb** in JupiterLab and run this file (using Run All)
+1. Navigate to **LAGER.ipynb** in JupyterLab and run this file (using Run All)
 2. Enter or use default data for lager transformation
 3. Click on "Pass parameters"
 4. Navigate to ***/Program.cs*** in Visual Studio and run  
-5. Navigate to **LAGER.ipynb** in JupiterLab and click "Read the result"
+5. Navigate to **LAGER.ipynb** in JupyterLab and click "Read the result"
 6. Click any blue button to display calculated data.
 
 
